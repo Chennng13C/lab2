@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:text="請輸入姓名以開始遊戲"
-        android:textType="18sp"
+        android:textSize="18sp"
         app:layout_constraintStart_toStartOf="@+id/ed_name"
         app:layout_constraintTop_toBottomOf="@+id/ed_name" />
 
